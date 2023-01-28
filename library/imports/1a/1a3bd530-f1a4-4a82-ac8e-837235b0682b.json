@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mario_small_29",
+    "texture": "5747b54b-1118-4b02-a52a-4045a58581fa",
+    "atlas": "b3028daa-8854-49b7-9d5a-b4803b9c231f",
+    "rect": [
+      109,
+      19,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

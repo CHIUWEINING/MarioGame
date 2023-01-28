@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Turtle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "turtle_0": {
+      "__uuid__": "b28795b5-a071-485c-96e0-b2cba69e363d"
+    },
+    "turtle_1": {
+      "__uuid__": "e8f1602c-df03-4542-a825-447a79cbcf40"
+    },
+    "turtle_2": {
+      "__uuid__": "69fa2931-b574-4518-a530-a11ad2df126e"
+    },
+    "turtle_3": {
+      "__uuid__": "89097752-d0b4-4486-ad14-5a1bc16510ad"
+    },
+    "turtle_4": {
+      "__uuid__": "6ca0a249-0b85-43e8-88c6-5d9141cbc38b"
+    },
+    "turtle_5": {
+      "__uuid__": "6ee71b0c-175b-44bf-a2c4-b8a401b0f793"
+    }
+  }
+}

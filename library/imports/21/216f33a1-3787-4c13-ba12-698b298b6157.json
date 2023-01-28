@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "colon",
+    "texture": "dde11d51-7e3f-4afb-ae3c-b24ae4cffc8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

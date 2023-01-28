@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "life",
+    "texture": "ce85db0d-0fd4-4652-bf6f-995b2071e435",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      7
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

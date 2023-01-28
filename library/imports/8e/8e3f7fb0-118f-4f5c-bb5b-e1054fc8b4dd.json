@@ -1,0 +1,281 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "items.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "items_0": {
+      "__uuid__": "31721534-3583-4002-affa-3e8d26063b85"
+    },
+    "items_1": {
+      "__uuid__": "436e535d-573d-4d29-8da8-0270eb50b186"
+    },
+    "items_10": {
+      "__uuid__": "1d5d0b9f-e4c4-4a83-85b1-1a608960aebb"
+    },
+    "items_11": {
+      "__uuid__": "44558108-d4a6-422a-b243-b1d39a1c1502"
+    },
+    "items_12": {
+      "__uuid__": "cbf9c051-a415-49b1-86c3-6ffe81a53524"
+    },
+    "items_13": {
+      "__uuid__": "82fcf3a8-5db7-477a-b40d-af88b656a6d2"
+    },
+    "items_14": {
+      "__uuid__": "9eb1fa6e-c177-4529-96c2-92ecac59be89"
+    },
+    "items_15": {
+      "__uuid__": "00b46623-c876-4714-bfbc-c4ae5fa5e7cf"
+    },
+    "items_16": {
+      "__uuid__": "2715af47-e8d2-4238-aa22-54986c39ff7f"
+    },
+    "items_17": {
+      "__uuid__": "2aa99e1f-f4ce-40cd-a993-028f5d60ca89"
+    },
+    "items_18": {
+      "__uuid__": "9fc45524-a5cd-4aa1-8c4c-7e8f8cd93f3c"
+    },
+    "items_19": {
+      "__uuid__": "468caba0-a643-4810-a440-a6f61d90734c"
+    },
+    "items_2": {
+      "__uuid__": "922326ac-029c-4f32-9c9e-d63d29d7cd79"
+    },
+    "items_20": {
+      "__uuid__": "8450148b-07ae-41d8-8a74-10907753754d"
+    },
+    "items_21": {
+      "__uuid__": "ef62d663-32ce-4d09-9078-b1688b0b4932"
+    },
+    "items_22": {
+      "__uuid__": "a6fa2a12-fcc4-4be9-b7a7-e61d313d8e89"
+    },
+    "items_23": {
+      "__uuid__": "1a2693f4-a440-4e08-bb4e-85c555854d5d"
+    },
+    "items_24": {
+      "__uuid__": "024ff9f9-359b-4ed4-8d34-f94a836a9251"
+    },
+    "items_25": {
+      "__uuid__": "86d7b893-5f85-4ad9-a18a-7112a46c2d3f"
+    },
+    "items_26": {
+      "__uuid__": "16503724-0fa0-4f59-be79-c5e246739b4a"
+    },
+    "items_27": {
+      "__uuid__": "92de3e05-845a-443d-9d62-d770877a03df"
+    },
+    "items_28": {
+      "__uuid__": "cd902669-c37e-4d30-8a3f-d030d7f2841b"
+    },
+    "items_29": {
+      "__uuid__": "abbb4431-4617-4d76-8f25-32c71d7e2bf0"
+    },
+    "items_3": {
+      "__uuid__": "9c754f40-04fc-4ba8-8bed-bcf42cd7125f"
+    },
+    "items_30": {
+      "__uuid__": "b42f3ae8-2db6-499b-a1fe-e3a944debfbb"
+    },
+    "items_31": {
+      "__uuid__": "41f24bb6-c16f-44de-be09-3bf26dc358ba"
+    },
+    "items_32": {
+      "__uuid__": "fbf2ef7c-1795-4b63-af74-3cc38058b58a"
+    },
+    "items_33": {
+      "__uuid__": "514e8055-41b0-44e5-ac6b-2dd99c1a81c5"
+    },
+    "items_34": {
+      "__uuid__": "53048bf0-d652-4c3a-b0d4-127831c48d90"
+    },
+    "items_35": {
+      "__uuid__": "7ae47c97-5e72-4888-81a8-12cc6a283dfa"
+    },
+    "items_36": {
+      "__uuid__": "cf0a085a-433c-4de1-a47d-77b9bab77fe9"
+    },
+    "items_37": {
+      "__uuid__": "00568af0-3da8-4f9a-8468-0848d796cacc"
+    },
+    "items_38": {
+      "__uuid__": "1306a993-5e17-421b-a4c1-c08ad7409871"
+    },
+    "items_39": {
+      "__uuid__": "7b22a42a-0f8d-4d03-b8d4-61d80bf75d0a"
+    },
+    "items_4": {
+      "__uuid__": "151df61e-a93a-47b6-8dce-b0f89252d778"
+    },
+    "items_40": {
+      "__uuid__": "5dae898f-108f-423f-9a49-86c04ff41ff5"
+    },
+    "items_41": {
+      "__uuid__": "239571b2-7f12-4c5e-baee-0b4cb2497f75"
+    },
+    "items_42": {
+      "__uuid__": "89b1415d-51fe-4e4c-8879-5a7e7b3c39fc"
+    },
+    "items_43": {
+      "__uuid__": "3bdc03c9-c4c7-4f51-bd69-2b9d6e924e1b"
+    },
+    "items_44": {
+      "__uuid__": "92416e4d-8f51-484c-9bc3-d5d87d004608"
+    },
+    "items_45": {
+      "__uuid__": "8a23538b-b581-4355-9072-c2371c5d045a"
+    },
+    "items_46": {
+      "__uuid__": "4d68848d-3756-4d0a-b2a0-714b282d6aa7"
+    },
+    "items_47": {
+      "__uuid__": "634d3be5-b3fa-478e-90ef-ad4e92fa8c45"
+    },
+    "items_48": {
+      "__uuid__": "087ce142-dcae-4f0f-94df-8c63f54a933f"
+    },
+    "items_49": {
+      "__uuid__": "76f29972-ac7e-4450-9678-00aec2374cd1"
+    },
+    "items_5": {
+      "__uuid__": "d55823d7-afca-42ba-9aa1-7a225c5da29f"
+    },
+    "items_50": {
+      "__uuid__": "00867881-de5a-419a-85aa-435a8eeeb7c6"
+    },
+    "items_51": {
+      "__uuid__": "807349ef-8ada-4c34-acf9-c374e68c8fa6"
+    },
+    "items_52": {
+      "__uuid__": "6b5ff281-caa5-4fdb-bd6f-eb8b878a5f8d"
+    },
+    "items_53": {
+      "__uuid__": "87a4d267-308f-4c7b-a079-e60ad8cec67c"
+    },
+    "items_54": {
+      "__uuid__": "79174910-fa7e-4d67-b3da-2345ef82df74"
+    },
+    "items_55": {
+      "__uuid__": "f6f4b9c4-67de-4f5d-92aa-9c1aaa932fb2"
+    },
+    "items_56": {
+      "__uuid__": "85604cc5-e674-463f-a5d0-e548245d1272"
+    },
+    "items_57": {
+      "__uuid__": "9d8d4262-196e-4bd8-8aa4-9452aed5003c"
+    },
+    "items_58": {
+      "__uuid__": "5b89319e-1619-4616-aa47-634e2df8adcd"
+    },
+    "items_59": {
+      "__uuid__": "509c6e6e-ebc2-44c2-88d1-a371ca7ab3e3"
+    },
+    "items_6": {
+      "__uuid__": "954c81db-4cb9-4dd7-acd6-fd5607ae6588"
+    },
+    "items_60": {
+      "__uuid__": "414c35c5-4357-44ef-8bc9-e49e76ec072c"
+    },
+    "items_61": {
+      "__uuid__": "d3fb596e-033e-4e8c-85e8-5ccec9d77300"
+    },
+    "items_62": {
+      "__uuid__": "03631aed-d2b4-43a4-9e30-418d8b3193dd"
+    },
+    "items_63": {
+      "__uuid__": "0cdbec2f-52e9-40ec-9bc9-98172cfe5cab"
+    },
+    "items_64": {
+      "__uuid__": "7386d000-96af-4a80-9dea-422edda021b1"
+    },
+    "items_65": {
+      "__uuid__": "7f29acc6-ffaa-4f70-96ef-099093ad930c"
+    },
+    "items_66": {
+      "__uuid__": "3a512784-9917-4f3c-b207-95faa740fbd3"
+    },
+    "items_67": {
+      "__uuid__": "4aeccafd-4f47-444b-895d-e8ec5af3eed5"
+    },
+    "items_68": {
+      "__uuid__": "e21d11c1-e121-4e9d-9133-490a4a3311cb"
+    },
+    "items_69": {
+      "__uuid__": "b08cb754-7b18-441b-afe3-ab2439cabe27"
+    },
+    "items_7": {
+      "__uuid__": "56464596-bc03-4102-8d2c-7925311a6ec4"
+    },
+    "items_70": {
+      "__uuid__": "cdb574ba-5cec-4fdd-ba64-1a2fbbb8673d"
+    },
+    "items_71": {
+      "__uuid__": "d4063969-09c1-47dd-a759-9161656f9c60"
+    },
+    "items_72": {
+      "__uuid__": "71848413-18c5-4aeb-afcd-7725badd7410"
+    },
+    "items_73": {
+      "__uuid__": "26dd83f1-80fd-452f-aaa9-93be159f1bc4"
+    },
+    "items_74": {
+      "__uuid__": "84ae8909-f479-46cf-9f8e-9fbf004979b7"
+    },
+    "items_75": {
+      "__uuid__": "9a951bfa-a03a-4960-8064-9dc41124daf2"
+    },
+    "items_76": {
+      "__uuid__": "91ed6a85-788f-4bf6-9790-6346341c2106"
+    },
+    "items_77": {
+      "__uuid__": "bc57577e-0b9a-4a72-82fa-94e9da59f0ec"
+    },
+    "items_78": {
+      "__uuid__": "69f7cbc4-f81f-4bd6-820e-5e77615d7c20"
+    },
+    "items_79": {
+      "__uuid__": "3726dc83-0fcb-43e8-bfb6-8ddda015fbe6"
+    },
+    "items_8": {
+      "__uuid__": "5c46be6a-57b0-4b84-8ece-d4d31220c0c7"
+    },
+    "items_80": {
+      "__uuid__": "7bc3caad-2391-4708-9a00-98b25cd2ddf1"
+    },
+    "items_81": {
+      "__uuid__": "974d2895-9b67-4afc-97f0-573ef3e303a3"
+    },
+    "items_82": {
+      "__uuid__": "9b05ca47-7323-4985-b286-fe2305c9ce96"
+    },
+    "items_83": {
+      "__uuid__": "d0f19f2e-3007-4186-ae39-fe5c4fc8cc09"
+    },
+    "items_84": {
+      "__uuid__": "1cbff194-7ecb-44d1-b08d-f38e576f20f4"
+    },
+    "items_85": {
+      "__uuid__": "96dc7923-10f4-4cad-8a09-6950e03ecb48"
+    },
+    "items_86": {
+      "__uuid__": "dd541517-ac57-410b-b383-80eff23e80e7"
+    },
+    "items_87": {
+      "__uuid__": "3638390f-18bd-40ca-bf7b-b11d653b18ee"
+    },
+    "items_88": {
+      "__uuid__": "5c44b14c-02e9-47ef-910d-f56ab6c1c913"
+    },
+    "items_89": {
+      "__uuid__": "0c6ae827-f12d-40a8-ba2b-3dc0a4e496d5"
+    },
+    "items_9": {
+      "__uuid__": "6ddbe28b-c749-436f-81ec-9fdca3ff7e4e"
+    },
+    "items_90": {
+      "__uuid__": "aa6fc5a7-baec-461c-b236-957705bedf7b"
+    }
+  }
+}
