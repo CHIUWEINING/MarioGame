@@ -21,7 +21,7 @@
 
 ## Advanced Component Description : 
 
-    Game Over Interface: The interface includes animations that are well-executed. When the player grows bigger, they stop falling. The physics system is accurate. The menu's background has a special effect (vaporization).
+- Game Over Interface: The interface includes animations that are well-executed. When the player grows bigger, they stop falling. The physics system is accurate. The menu's background has a special effect (vaporization).
 
 ## How to Play
 * Create an account and SignIn (The account needs to be in email format. The length of password needs to be longer than 6 characters)
