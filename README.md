@@ -30,6 +30,12 @@
 
 * Enjoy your game!(up down right left to control Mario)
 
+
+## Technique
+* Firebase database and hosting
+* Cocos Creator
+* Typescript
+
 ## Firebase page link
 
     https://hw22-20df9.web.app/
